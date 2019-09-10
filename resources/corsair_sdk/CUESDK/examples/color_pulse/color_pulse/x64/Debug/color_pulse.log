@@ -1,0 +1,8 @@
+﻿  color_pulse.cpp
+CL : warning : CUESDK deprecation warnings were disabled
+  color_pulse.vcxproj -> E:\Parker\Documents\bapc\led_sync\corsair_sdk\CUESDK\examples\color_pulse\x64\Debug\color_pulse.exe
+  E:\Parker\Documents\bapc\led_sync\corsair_sdk\CUESDK\examples\color_pulse\..\..\redist\x64\CUESDK.x64_2012.dll
+  File creation error - The system cannot find the file specified.
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "xcopy  /Y /I  "E:\Parker\Documents\bapc\led_sync\corsair_sdk\CUESDK\examples\color_pulse\..\..\redist\x64\*" "E:\Parker\Documents\bapc\led_sync\corsair_sdk\CUESDK\examples\color_pulse\x64\Debug\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 4.
